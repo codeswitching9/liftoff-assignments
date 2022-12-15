@@ -3,11 +3,22 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 Include overview here
+
 ### Features
 Include Features here
+
 ### Technologies
-Include Technologies here
+• HTML
+• CSS
+• JavaScript
+• C#
+• ASP.NET Core
+• MySQL
+• Google Maps API
+• TripAdvisor API
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+• The main thing that I will need to learn is finding an appropriate API and implementing it. Our project will rely heavily on a map feature so whatever will help us to achieve allow users to view sites/events on a map is essential.
+
 ### Project Tracker
 [Personal Trello Board](https://trello.com/b/G6dCQuCR/liftoff-get-weird-app)
