@@ -10,13 +10,13 @@ Include overview here
 • Reviews/Ratings: Users can leave a review and rating about experiences at specific locations.
 
 ### Technologies
-• HTML
-• CSS
-• JavaScript
-• C#
-• ASP.NET Core
-• MySQL
-• Google Maps API
+* HTML
+* CSS
+* JavaScript
+* C#
+* ASP.NET Core
+* MySQL
+* Google Maps API
 
 ### What I'll Have to Learn
 • The main thing that I will need to learn is finding an appropriate API and implementing it. Our project will rely heavily on a map feature so whatever will help us to achieve allow users to view sites/events on a map is essential.
