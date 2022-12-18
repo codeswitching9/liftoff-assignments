@@ -5,7 +5,9 @@ For this assignment, you will submit a high-level outline of your project. This 
 Include overview here
 
 ### Features
-Include Features here
+• User login: Users will be able to create an account and profile.
+• Search: Users can complete searches for specific supernatural entities or locations.
+• Reviews/Ratings: Users can leave a review and rating about experiences at specific locations.
 
 ### Technologies
 • HTML
