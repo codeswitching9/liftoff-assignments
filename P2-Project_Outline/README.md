@@ -10,6 +10,9 @@ The Get Weird app allows you to keep track of supernatural sightings on a map. Y
 * User login: Users will be able to create an account and profile.
 * Search: Users can complete searches for specific supernatural entities or locations.
 * Reviews/Ratings: Users can leave a review and rating about experiences at specific locations.
+* Favorites: Users can add a location as a favorite and view in a list.
+* To be visited list: Users can add a location that they wish to visit to a list.
+* Already visited list: Users can add previously visited locations to a list.
 
 ### Technologies
 * HTML
