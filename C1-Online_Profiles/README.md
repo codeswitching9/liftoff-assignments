@@ -5,4 +5,4 @@
 [LinkedIn Profile](www.linkedin.com/in/leslieabradshaw)
 
 ### Resume
-See attached PDF in this same directory.
+Resume has been sent directly to TA.
